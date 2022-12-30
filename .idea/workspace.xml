@@ -29,7 +29,30 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae295611-f84d-48c4-ba36-40a5fe727f0c" name="Default Changelist" comment="" />
+    <list default="true" id="ae295611-f84d-48c4-ba36-40a5fe727f0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/SecurityConfig1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/DefaultPasswordEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/DefaultPasswordEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/SecurityAuthenticationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/SecurityAuthenticationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/SpringDataUserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/SpringDataUserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/UnauthorizedEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/UnauthorizedEntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/token/TokenAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/token/TokenAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/token/TokenLoginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/token/TokenLoginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service_gateway/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/target/classes/com/liang/gateway/security/DefaultPasswordEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/target/classes/com/liang/gateway/security/SampleAuthenticationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/target/classes/com/liang/gateway/security/SecurityAuthenticationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/target/classes/com/liang/gateway/security/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/target/classes/com/liang/gateway/security/SpringDataUserDetailsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/target/classes/com/liang/gateway/security/UnauthorizedEntryPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/target/classes/com/liang/gateway/token/TokenAuthenticationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_gateway/target/classes/com/liang/gateway/token/TokenLoginFilter.class" beforeDir="false" />
+    </list>
+    <list id="051dd98a-f8c0-4e7b-8b84-54805a35e130" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +66,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/share_core" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="devlfj" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -70,17 +98,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../share_core/share_core" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new/tem/team" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1954023" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.liang.utils.result" />
       <recent name="com.liang.gateway.security" />
+      <recent name="com.liang.utils.result" />
       <recent name="com.liang.gateway" />
       <recent name="com.liang.gateway.config" />
       <recent name="com.liang.test" />
@@ -101,15 +133,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,6 +181,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ae295611-f84d-48c4-ba36-40a5fe727f0c" name="Default Changelist" comment="" />
+      <changelist id="051dd98a-f8c0-4e7b-8b84-54805a35e130" name="New changelist" comment="" />
       <created>1672281601827</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -158,7 +189,18 @@
       <workItem from="1672281602898" duration="9737000" />
       <workItem from="1672300824651" duration="819000" />
       <workItem from="1672301727063" duration="214000" />
+      <workItem from="1672301951925" duration="2347000" />
+      <workItem from="1672306126244" duration="1006000" />
+      <workItem from="1672363460282" duration="8697000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1672302150505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672302150505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +230,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="249" y="7" key="#Project_Structure" timestamp="1672283515298">
       <screen x="0" y="0" width="1536" height="864" />
@@ -201,54 +247,82 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1672294274561" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1672301648544">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1672363911617">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1672301648544" />
-    <state width="1238" height="395" key="GridCell.Tab.0.bottom" timestamp="1672300814979">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1672363911617" />
+    <state width="1238" height="210" key="GridCell.Tab.0.bottom" timestamp="1672386769672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1238" height="395" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1672300814979" />
-    <state width="1238" height="395" key="GridCell.Tab.0.center" timestamp="1672300814979">
+    <state width="1238" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1672386769672" />
+    <state width="1238" height="210" key="GridCell.Tab.0.center" timestamp="1672386769672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1238" height="395" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1672300814979" />
-    <state width="1238" height="395" key="GridCell.Tab.0.left" timestamp="1672300814979">
+    <state width="1238" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1672386769672" />
+    <state width="1238" height="210" key="GridCell.Tab.0.left" timestamp="1672386769672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1238" height="395" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1672300814979" />
-    <state width="1238" height="395" key="GridCell.Tab.0.right" timestamp="1672300814979">
+    <state width="1238" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1672386769672" />
+    <state width="1238" height="210" key="GridCell.Tab.0.right" timestamp="1672386769672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1238" height="395" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1672300814979" />
-    <state width="1238" height="395" key="GridCell.Tab.1.bottom" timestamp="1672300814980">
+    <state width="1238" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1672386769672" />
+    <state width="1238" height="210" key="GridCell.Tab.1.bottom" timestamp="1672386769672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1238" height="395" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1672300814980" />
-    <state width="1238" height="395" key="GridCell.Tab.1.center" timestamp="1672300814979">
+    <state width="1238" height="210" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1672386769672" />
+    <state width="1238" height="210" key="GridCell.Tab.1.center" timestamp="1672386769672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1238" height="395" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1672300814979" />
-    <state width="1238" height="395" key="GridCell.Tab.1.left" timestamp="1672300814979">
+    <state width="1238" height="210" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1672386769672" />
+    <state width="1238" height="210" key="GridCell.Tab.1.left" timestamp="1672386769672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1238" height="395" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1672300814979" />
-    <state width="1238" height="395" key="GridCell.Tab.1.right" timestamp="1672300814980">
+    <state width="1238" height="210" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1672386769672" />
+    <state width="1238" height="210" key="GridCell.Tab.1.right" timestamp="1672386769672">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1238" height="395" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1672300814980" />
+    <state width="1238" height="210" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1672386769672" />
+    <state width="1238" height="277" key="GridCell.Tab.2.bottom" timestamp="1672364701976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1238" height="277" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1672364701976" />
+    <state width="1238" height="277" key="GridCell.Tab.2.center" timestamp="1672364701976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1238" height="277" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1672364701976" />
+    <state width="1238" height="277" key="GridCell.Tab.2.left" timestamp="1672364701976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1238" height="277" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1672364701976" />
+    <state width="1238" height="277" key="GridCell.Tab.2.right" timestamp="1672364701976">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1238" height="277" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1672364701976" />
     <state x="270" y="14" key="SettingsEditor" timestamp="1672301834815">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="270" y="14" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1672301834815" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1672301033160">
+    <state x="614" y="345" key="VCS.ChangelistChooser" timestamp="1672302610229">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1672301033160" />
+    <state x="614" y="345" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1672302610229" />
+    <state x="599" y="301" key="VCS.EditChangelistDialog" timestamp="1672302604166">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="301" key="VCS.EditChangelistDialog/0.0.1536.864@0.0.1536.864" timestamp="1672302604166" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1672302154410">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1672302154410" />
     <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1672301024377">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="573" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1672301024377" />
+    <state x="468" y="135" width="600" height="594" key="find.popup" timestamp="1672364641668">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="468" y="135" width="600" height="594" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1672364641668" />
     <state x="178" y="93" key="new project wizard" timestamp="1672284674207">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -257,5 +331,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1672284034949" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/token/TokenLoginFilter.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service_gateway/src/main/java/com/liang/gateway/security/UnauthorizedEntryPoint.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../repository/maven/repository/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE.jar!/org/springframework/security/config/web/server/ServerHttpSecurity.class</url>
+          <line>1460</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
